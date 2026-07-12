@@ -1,0 +1,35 @@
+name: Feature request
+description: Suggest a focused improvement to a JaydenART open-source project.
+title: "[Idea]: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Explain the need before describing a preferred implementation.
+      placeholder: I am trying to... but currently...
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would a useful result look like?
+      description: Describe the behavior or outcome that would help.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: What have you tried?
+      description: Share workarounds, related projects, or tradeoffs when relevant.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and documentation.
+          required: true
+        - label: This request is focused on one problem.
+          required: true

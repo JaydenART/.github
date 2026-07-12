@@ -1,0 +1,50 @@
+name: Bug report
+description: Report a reproducible problem in a JaydenART open-source project.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for helping us improve the project. Do not include credentials, customer data, private URLs, or account information.
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened?
+      description: Describe the problem and what you expected instead.
+      placeholder: A clear, concise description of the bug.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How can we reproduce it?
+      description: List the smallest reliable steps or provide a reduced example.
+      placeholder: |
+        1. Open...
+        2. Select...
+        3. Observe...
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Include relevant browser, operating system, runtime, package, or product versions.
+      placeholder: Browser 1.2, macOS 15, Node.js 22
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add redacted screenshots, logs, or links to a minimal reproduction when useful.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues for the same problem.
+          required: true
+        - label: I removed private and sensitive information.
+          required: true
