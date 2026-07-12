@@ -10,7 +10,7 @@ Founded and led by [Jayden Yoon ZK](https://github.com/JaydenYoonZK).
 
 **JaydenART<sup>®</sup> Tech Inc.** is our technology subsidiary. Its brands:
 
-- [**JaydenART<sup>®</sup> Website**](https://www.jaydenart.website): green, eco-conscious web essentials. Domains, web hosting, WordPress, SSL certificates, professional email, backups, and VPN, with free migration and a 30 day money-back guarantee.
+- [**JaydenART<sup>®</sup> Website**](https://www.jaydenart.website): "All Set, All Here." Everything a site needs under one roof: domain names, web and WordPress hosting, Windows hosting, managed VPS, SSL certificates, a website builder, professional email, SEO tools, security, backups, and VPN. The hosting runs green, verified by The Green Web Foundation, and every plan is backed by a 99.9% uptime promise, 24/7 support, and a 30 day money-back guarantee.
 - [**JaydenART.Ai**](https://www.jaydenart.ai): our AI assistant. In development, coming soon.
 
 ## Open source
