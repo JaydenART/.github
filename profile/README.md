@@ -1,4 +1,7 @@
-<img src="./assets/jaydenart-github.svg" alt="JaydenART Inc. ART brings out the best in you." width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/jaydenart-banner-dark.svg">
+  <img src="./assets/jaydenart-banner-light.svg" alt="JaydenART Inc. ART brings out the best in you." width="100%">
+</picture>
 
 <p align="center">
   <a href="https://www.JaydenART.com"><strong>Website</strong></a> &nbsp;&#8226;&nbsp;
