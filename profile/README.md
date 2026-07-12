@@ -28,5 +28,6 @@ Running a web hosting brand leaves you with hard-won checklists. Our founder shi
 
 - Website: [JaydenART.com](https://www.JaydenART.com)
 - LinkedIn: [JaydenART<sup>®</sup> Inc.](https://www.linkedin.com/company/jaydenart)
+- X: [@JaydenART](https://x.com/JaydenART)
 - Instagram: [@jaydenart_inc](https://www.instagram.com/jaydenart_inc/)
 - YouTube: [JaydenART<sup>®</sup>](https://www.youtube.com/c/JaydenART)
