@@ -10,7 +10,7 @@ Founded and led by [Jayden Yoon ZK](https://github.com/JaydenYoonZK).
 
 ## Our subsidiaries
 
-- **JaydenART<sup>®</sup> Creative Inc.**: design in every form, from brand identities, UI and UX, and digital art to print, products, and interiors.
+- **JaydenART<sup>®</sup> Creatives Inc.**: design in every form, from brand identities, UI and UX, and digital art to print, products, and interiors.
 - **JaydenART<sup>®</sup> Film Inc.**: a full-service studio covering the whole journey, story and script through production, VFX, and post.
 - **JaydenART<sup>®</sup> Music Inc.**: production, foley, voice, and distribution, from our studio to the platforms people listen on.
 - **JaydenART<sup>®</sup> Tech Inc.**: apps, software, games, and the web. Its brands:
