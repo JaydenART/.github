@@ -2,7 +2,7 @@
 
 **ART brings out the best in you.**
 
-JaydenART<sup>®</sup> Inc. is a multinational conglomerate working across art, film, music, technology, fashion, and talent, headquartered in the United States in Beverly Hills, California, with offices in Malaysia. Our purpose is simple to say and hard to do: inspire and develop creative solutions that unlock the hidden value of the multimedia and entertainment industries.
+JaydenART<sup>®</sup> Inc. is a multinational conglomerate working across art, film, music, technology, fashion, and talent, headquartered in the United States in Beverly Hills, California, with branches in Malaysia. Our purpose is simple to say and hard to do: inspire and develop creative solutions that unlock the hidden value of the multimedia and entertainment industries.
 
 We build from scratch. No templates, no shortcuts, every detail considered, because originality is what gives a brand its personality. Over the years that approach has let our teams contribute to work for names like Sony Pictures, Microsoft, and LEGO, and it is the same standard we bring to the smallest client project.
 
