@@ -2,7 +2,7 @@
 
 **ART Brings Out The Best In You.**
 
-JaydenART Inc. is a multinational conglomerate with subsidiaries across art, film, music, technology, fashion, and talent. Founded in 2010 and headquartered in Beverly Hills, California, we exist to inspire and develop creative solutions that unlock the hidden value of the multimedia and entertainment industries.
+JaydenART<sup>®</sup> Inc. is a multinational conglomerate with subsidiaries across art, film, music, technology, fashion, and talent. Founded in 2010 and headquartered in Beverly Hills, California, we exist to inspire and develop creative solutions that unlock the hidden value of the multimedia and entertainment industries.
 
 Founded and led by [Jayden Yoon ZK](https://github.com/JaydenYoonZK).
 
@@ -24,6 +24,6 @@ Running a web hosting brand leaves you with hard-won checklists. Our founder shi
 ## Find us
 
 - Website: [JaydenART.com](https://www.JaydenART.com)
-- LinkedIn: [JaydenART Inc.](https://www.linkedin.com/company/jaydenart)
+- LinkedIn: [JaydenART<sup>®</sup> Inc.](https://www.linkedin.com/company/jaydenart)
 - Instagram: [@jaydenart_inc](https://www.instagram.com/jaydenart_inc/)
-- YouTube: [JaydenART](https://www.youtube.com/c/JaydenART)
+- YouTube: [JaydenART<sup>®</sup>](https://www.youtube.com/c/JaydenART)
