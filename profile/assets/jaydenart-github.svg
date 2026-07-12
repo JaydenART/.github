@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">JaydenART</title>
+  <desc id="desc">Creative work and practical technology, presented in JaydenART green, brown, black, and white.</desc>
+  <rect width="1200" height="340" rx="32" fill="#090909"/>
+  <rect x="1" y="1" width="1198" height="338" rx="31" fill="none" stroke="#ffffff" stroke-opacity="0.15"/>
+  <rect x="0" y="304" width="1200" height="36" rx="0" fill="#544741"/>
+  <rect x="0" y="304" width="350" height="36" fill="#abcf37"/>
+
+  <text x="72" y="92" fill="#abcf37" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="0">JAYDENART® INC.</text>
+  <text x="72" y="178" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">Creative work.</text>
+  <text x="72" y="244" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">Practical technology.</text>
+  <text x="74" y="286" fill="#ffffff" fill-opacity="0.64" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="0">DESIGN  •  FILM  •  MUSIC  •  SOFTWARE  •  TALENT</text>
+
+  <g transform="translate(924 58)">
+    <rect width="210" height="210" rx="46" fill="none" stroke="#abcf37" stroke-width="18"/>
+    <rect x="66" y="42" width="78" height="38" rx="15" fill="#abcf37"/>
+    <circle cx="105" cy="61" r="9" fill="none" stroke="#090909" stroke-width="3"/>
+    <path d="M68 102h76v44c0 44-27 70-72 70H48v-42h24c20 0 29-9 29-29v-7H68z" fill="#abcf37"/>
+    <path d="M42 102h31v39c0 19-9 29-29 29H24v-42h18z" fill="#ffffff"/>
+  </g>
+  <circle cx="1105" cy="284" r="5" fill="#abcf37"/>
+  <circle cx="1125" cy="284" r="5" fill="#ffffff" fill-opacity="0.42"/>
+  <circle cx="1145" cy="284" r="5" fill="#ffffff" fill-opacity="0.18"/>
+</svg>

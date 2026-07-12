@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: JaydenART service support
+    url: https://www.JaydenART.com
+    about: Get help with hosting, domains, billing, accounts, and company services.
+  - name: Private security report
+    url: https://github.com/JaydenART/.github/security/advisories/new
+    about: Report a vulnerability privately.
