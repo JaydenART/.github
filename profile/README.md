@@ -6,11 +6,20 @@ JaydenART Inc. is a multinational conglomerate with subsidiaries across art, fil
 
 Founded and led by [Jayden Yoon ZK](https://github.com/JaydenYoonZK).
 
+## Companies and brands
+
+**JaydenART<sup>®</sup> Tech Inc.** is our technology subsidiary. Its brands:
+
+- [**JaydenART<sup>®</sup> Website**](https://www.jaydenart.website): green, eco-conscious web essentials. Domains, web hosting, WordPress, SSL certificates, professional email, backups, and VPN, with free migration and a 30 day money-back guarantee.
+- [**JaydenART.Ai**](https://www.jaydenart.ai): our AI assistant. In development, coming soon.
+
 ## Open source
 
-Craft is company culture, down to the smallest interaction:
+Running a web hosting brand leaves you with hard-won checklists. Our founder ships them as free, open tools for everyone:
 
-- [**Realistic 3D CSS Button**](https://github.com/JaydenART/JaydenART_Realistic_3D_CSS_Button): a button that actually presses. Pure CSS, anchored physics, MIT licensed. [Try it live](https://jaydenart.github.io/JaydenART_Realistic_3D_CSS_Button/). Its press mechanics now drive every button across [our founder's free browser tools](https://jaydenyoonzk.github.io/projects/).
+- [**The projects directory**](https://jaydenyoonzk.github.io/projects/): every tool in one place, from WHMCS and WordPress maintenance to the practical side effects of AI.
+
+- [**Realistic 3D CSS Button**](https://github.com/JaydenART/JaydenART_Realistic_3D_CSS_Button): a button that actually presses. Pure CSS, anchored physics, MIT licensed. [Try it live](https://jaydenart.github.io/JaydenART_Realistic_3D_CSS_Button/). Its press mechanics now drive every button across those tools.
 
 ## Find us
 
