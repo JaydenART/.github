@@ -1,23 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">JaydenART</title>
-  <desc id="desc">Creative work and practical technology, presented in JaydenART green, brown, black, and white.</desc>
-  <rect width="1200" height="340" rx="32" fill="#090909"/>
-  <rect x="1" y="1" width="1198" height="338" rx="31" fill="none" stroke="#ffffff" stroke-opacity="0.15"/>
-  <rect x="0" y="304" width="1200" height="36" rx="0" fill="#544741"/>
-  <rect x="0" y="304" width="350" height="36" fill="#abcf37"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="jb-title jb-desc">
+  <title id="jb-title">JaydenART Inc.</title>
+  <desc id="jb-desc">The official JaydenART logo beside the slogan: ART brings out the best in you.</desc>
+  <defs>
+    <clipPath id="logoClip"><rect x="0" y="0" width="725.7" height="725.7" rx="20"/></clipPath>
+    <clipPath id="panelClip"><rect width="1200" height="340" rx="32"/></clipPath>
+    <linearGradient id="glint" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0.35" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.28"/>
+      <stop offset="0.65" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.16" cy="0.1" r="1">
+      <stop offset="0" stop-color="#abcf37" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#abcf37" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
 
-  <text x="72" y="92" fill="#abcf37" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="0">JAYDENART® INC.</text>
-  <text x="72" y="178" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">Creative work.</text>
-  <text x="72" y="244" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">Practical technology.</text>
-  <text x="74" y="286" fill="#ffffff" fill-opacity="0.64" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="0">DESIGN  •  FILM  •  MUSIC  •  SOFTWARE  •  TALENT</text>
+  <rect width="1200" height="340" rx="32" fill="#0d0c0a"/>
+  <rect width="1200" height="340" rx="32" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="31" fill="none" stroke="#ffffff" stroke-opacity="0.14"/>
 
-  <g transform="translate(924 58) scale(0.29)">
-    <path fill="#abcf37" d="M705.7,725.7H20c-11,0-20-9-20-20V20C0,9,9,0,20,0h685.7c11,0,20,9,20,20v685.7c0,11-9,20-20,20Z"/>
-    <path fill="#ffffff" d="M70.2,100.9v450c0,19.4,16.7,34.5,35.9,32.3,56-6.2,157.2-31.6,157.2-105.3,0-44.8-.4-69.9-.2-103.9.1-17.7,14.4-31.9,32.1-31.9h134.2c18.3,0,33.1,14.8,33.1,33.1v129.2s0,151.2-132.2,151.2c0,0,325.1,11.5,325.1-160.7V101.6c0-17.3-14.1-31.4-31.4-31.4H100.9c-17,0-30.7,13.7-30.7,30.7Z"/>
-    <path fill="#a9cf39" d="M444.6,263.8h-163.4c-9.9,0-18-8.1-18-18v-79.5c0-9.9,8.1-18,18-18h163.4c9.9,0,18,8.1,18,18v79.5c0,9.9-8.1,18-18,18Z"/>
-    <path fill="#ffffff" d="M388.8,206.2c0,15.6-12.2,27.8-28.1,27.8s-28.3-12.2-28.3-27.8,12.6-27.5,28.3-27.5c15.9.1,28.1,12.3,28.1,27.5ZM339.4,206.2c0,12.2,9,21.9,21.4,21.9s20.9-9.7,20.9-21.8-8.9-22.1-21.1-22.1-21.2,9.9-21.2,22h0ZM356.3,220.6h-6.4v-27.5c2.5-.5,6-.8,10.6-.8,5.2,0,7.5.8,9.5,2,1.5,1.2,2.7,3.3,2.7,6,0,3-2.3,5.4-5.7,6.4v.3c2.7,1,4.2,3,5,6.7.8,4.2,1.3,5.9,2,6.9h-6.9c-.8-1-1.3-3.5-2.2-6.7-.5-3-2.2-4.4-5.7-4.4h-3v11.1h.1ZM356.5,205h3c3.5,0,6.4-1.2,6.4-4,0-2.5-1.8-4.2-5.9-4.2-1.7,0-2.8.2-3.5.3v7.9Z"/>
+  <g transform="translate(70,64) scale(0.2618)">
+    <g clip-path="url(#logoClip)">
+      <path fill="#abcf37" d="M705.7,725.7H20c-11,0-20-9-20-20V20C0,9,9,0,20,0h685.7c11,0,20,9,20,20v685.7c0,11-9,20-20,20Z"/>
+      <path fill="#fff" d="M70.2,100.9v450c0,19.4,16.7,34.5,35.9,32.3,56-6.2,157.2-31.6,157.2-105.3,0-44.8-.4-69.9-.2-103.9.1-17.7,14.4-31.9,32.1-31.9h134.2c18.3,0,33.1,14.8,33.1,33.1v129.2s0,151.2-132.2,151.2c0,0,325.1,11.5,325.1-160.7V101.6c0-17.3-14.1-31.4-31.4-31.4H100.9c-17,0-30.7,13.7-30.7,30.7Z"/>
+      <path fill="#a9cf39" d="M444.6,263.8h-163.4c-9.9,0-18-8.1-18-18v-79.5c0-9.9,8.1-18,18-18h163.4c9.9,0,18,8.1,18,18v79.5c0,9.9-8.1,18-18,18Z"/>
+      <path fill="#fff" d="M388.8,206.2c0,15.6-12.2,27.8-28.1,27.8s-28.3-12.2-28.3-27.8,12.6-27.5,28.3-27.5c15.9.1,28.1,12.3,28.1,27.5ZM339.4,206.2c0,12.2,9,21.9,21.4,21.9s20.9-9.7,20.9-21.8-8.9-22.1-21.1-22.1-21.2,9.9-21.2,22h0ZM356.3,220.6h-6.4v-27.5c2.5-.5,6-.8,10.6-.8,5.2,0,7.5.8,9.5,2,1.5,1.2,2.7,3.3,2.7,6,0,3-2.3,5.4-5.7,6.4v.3c2.7,1,4.2,3,5,6.7.8,4.2,1.3,5.9,2,6.9h-6.9c-.8-1-1.3-3.5-2.2-6.7-.5-3-2.2-4.4-5.7-4.4h-3v11.1h.1ZM356.5,205h3c3.5,0,6.4-1.2,6.4-4,0-2.5-1.8-4.2-5.9-4.2-1.7,0-2.8.2-3.5.3v7.9Z"/>
+      <rect x="-500" y="-120" width="330" height="1100" fill="url(#glint)" transform="rotate(24)">
+        <animateTransform attributeName="transform" type="translate" values="-500 0; 1500 0; 1500 0" keyTimes="0; 0.28; 1" dur="9s" repeatCount="indefinite" additive="sum"/>
+      </rect>
+    </g>
   </g>
-  <circle cx="1105" cy="284" r="5" fill="#abcf37"/>
-  <circle cx="1125" cy="284" r="5" fill="#ffffff" fill-opacity="0.42"/>
-  <circle cx="1145" cy="284" r="5" fill="#ffffff" fill-opacity="0.18"/>
+
+  <text x="300" y="106" fill="#abcf37" font-family="Helvetica Neue, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="7">JAYDENART&#174; INC.</text>
+  <text x="298" y="178" fill="#f3f0e9" font-family="Helvetica Neue, Arial, sans-serif" font-size="57" font-weight="800" letter-spacing="-0.5">ART brings out the best in you.</text>
+  <text x="300" y="232" fill="#c8c2b6" font-family="Helvetica Neue, Arial, sans-serif" font-size="19" letter-spacing="4">ART &#183; FILM &#183; MUSIC &#183; TECHNOLOGY &#183; FASHION &#183; TALENT</text>
+
+  <g fill="#abcf37">
+    <path d="M1094 78 L1098 89 L1109 93 L1098 97 L1094 108 L1090 97 L1079 93 L1090 89 Z">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="3.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1136 132 L1138.6 139 L1145.6 141.8 L1138.6 144.6 L1136 151.6 L1133.4 144.6 L1126.4 141.8 L1133.4 139 Z">
+      <animate attributeName="opacity" values="1;0.2;1" dur="4.6s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="1058" cy="122" r="3.4">
+      <animate attributeName="opacity" values="0.3;0.95;0.3" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g clip-path="url(#panelClip)">
+    <rect x="0" y="306" width="1200" height="34" fill="#544741"/>
+    <rect x="0" y="306" width="352" height="34" fill="#abcf37"/>
+  </g>
 </svg>
